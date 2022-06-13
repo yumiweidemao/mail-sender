@@ -1,5 +1,4 @@
 # Mail Sender
-<<<<<<< HEAD
 
 <ul>
     <li>Written in Go 1.18.2</li>
